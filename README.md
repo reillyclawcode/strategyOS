@@ -4,7 +4,7 @@
 
 ## Live Dashboard
 
-🔗 **[StrategyOS Dashboard](https://strategy-os.vercel.app/)** _(deploying soon)_
+🔗 **[StrategyOS Dashboard](https://strategy-os-pearl.vercel.app/)**
 
 ## Features
 
@@ -34,7 +34,7 @@ StrategyOS is part of the Civilization Futures Ecosystem:
 | 🏛️ GovernanceOS | Civic governance & AI oversight | [civilization-os-ashy.vercel.app](https://civilization-os-ashy.vercel.app/) |
 | 🌐 CivilizationOS | Aggregate civilization health | [civilization-os-ashy.vercel.app](https://civilization-os-ashy.vercel.app/) |
 | 🔬 Simulation | Macro civilizational simulation | [simulation-brown.vercel.app](https://simulation-brown.vercel.app/) |
-| ⚙️ StrategyOS | Actionable strategies | _this repo_ |
+| ⚙️ StrategyOS | Actionable strategies | [strategy-os-pearl.vercel.app](https://strategy-os-pearl.vercel.app/) |
 
 ## Tech Stack
 
